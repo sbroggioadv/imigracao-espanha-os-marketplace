@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "imigracao-espanha-os-marketplace",
+  "description": "Marketplace oficial do plugin imigracao-espanha-os — imigração para a Espanha em 3 frentes (imigrante, comercial, advogado), com trava OAB≠abogacía e varredura de vigência (RD 1155/2024).",
+  "owner": {
+    "name": "IA Combativa"
+  },
+  "plugins": [
+    {
+      "name": "imigracao-espanha-os",
+      "source": "./imigracao-espanha-os",
+      "description": "Assistente completo de imigração para a Espanha, com três frentes no mesmo produto: quem quer emigrar, quem vende o serviço e quem monta o processo. Catálogo pós-reforma: RD 1155/2024, arraigo, UGE, PEMA e nacionalidade. Gates: varredura de vigência + trava de representação (OAB ≠ abogacía).",
+      "author": {
+        "name": "IA Combativa"
+      }
+    }
+  ]
+}

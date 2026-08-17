@@ -1,0 +1,12 @@
+{
+  "SessionStart": [
+    {
+      "hooks": [
+        {
+          "type": "command",
+          "command": "echo 'imigracao-espanha-os pronto. Rode /imigracao-espanha para comecar.'"
+        }
+      ]
+    }
+  ]
+}
